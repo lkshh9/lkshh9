@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumawat</h1>
 <h3 align="center">A Computer Science Engineering student, Frontend Web Developer, ML AI enthusiast</h3>
-<img align="right' alt="Coding" width="400" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
+<img align="right" alt="Coding" width="400" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkshh9&label=Profile%20views&color=0e75b6&style=flat" alt="lkshh9" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lkshhsays" target="blank"><img src="https://img.shields.io/twitter/follow/lkshhsays?logo=twitter&style=for-the-badge" alt="lkshhsays" /></a> </p>
+- 🔭 I’m currently working on **Deep Learning project**
 
-- 🌱 I’m currently learning **Frontend web dev, python, java, DSA**
+- 🌱 I’m currently learning **Frontend web dev, python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
