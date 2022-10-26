@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkshh9&label=Profile%20views&color=0e75b6&style=flat" alt="lkshh9" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning project**
+- 🔭 I’m currently working on **Machine Learning project**
 
 - 🌱 I’m currently learning **Frontend web dev, python**
 
