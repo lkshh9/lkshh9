@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumawat</h1>
-<h3 align="center">A Computer Science Engineering student, Frontend Web Developer, ML AI enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47gly0ts9iru73ahkcxn2zwylt4pu5s43tybdzp6dl&rid=giphy.gif&ct=g">
+<h3 align="center">A Computer Science Engineering student, MERN Stack Developer, ML AI enthusiast</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47gly0ts9iru73ahkcxn2zwylt4pu5s43tybdzp6dl&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkshh9&label=Profile%20views&color=0e75b6&style=flat" alt="lkshh9" /> </p>
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkshh9&show_icons=true&locale=en&layout=compact" alt="lkshh9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkshh9&show_icons=true&locale=en" alt="lkshh9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkshh9&show_icons=true&locale=en" alt="lkshh9" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkshh9&" alt="lkshh9" /></p>
+
