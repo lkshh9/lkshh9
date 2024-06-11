@@ -30,7 +30,7 @@
 
 <br/>
 
-<h2 align="center">My Contribution Streak !! :fire:</h2>
+<!-- <h2 align="center">My Contribution Streak !! :fire:</h2>
 
 <p align="center">
     <a>
@@ -43,4 +43,4 @@
 
 <div> 
 <img src="gif.gif" width="300px" alt=gif align="right"> 
-</div>
+</div> -->
