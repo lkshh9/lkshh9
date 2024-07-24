@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumawat</h1>
 <h3 align="center">A Computer Science Engineering student, Full Stack Web Developer, Data Engineer</h3>
 <!--  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47gly0ts9iru73ahkcxn2zwylt4pu5s43tybdzp6dl&rid=giphy.gif&ct=g">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkshh9&label=Profile%20views&color=0e75b6&style=flat" alt="lkshh9" /> </p>
 
 ## 🙋‍♂️ About Me 
@@ -27,8 +25,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p> -->
-
-<br/>
 
 <!-- <h2 align="center">My Contribution Streak !! :fire:</h2>
 
